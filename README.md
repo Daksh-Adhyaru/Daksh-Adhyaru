@@ -9,7 +9,7 @@ how technology actually works — and started building things to find out.
 
 ### What I'm up to
 
-- 📊 Studying **Google Data Analytics** on Coursera
+- 📊 Studying BBA And Python 
 - 🛠️ Learning how software gets built, one project at a time
 - 💡 Interested in **automation, products, and startups**
 - 🔍 Exploring where business thinking meets tech
