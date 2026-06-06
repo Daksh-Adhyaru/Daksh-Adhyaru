@@ -35,7 +35,7 @@ things just as much as the business side.
 
 ### Connect
 
-- 💼 LinkedIn: [linkedin.com/in/daksh-adhyaru](https://linkedin.com/in/daksh-adhyaru)
+- 💼 LinkedIn: [linkedin.com/in/daksh-adhyaru](www.linkedin.com/in/daksh-adhyaru-)
 - 📍 Ahmedabad, India
 
 ---
