@@ -41,3 +41,7 @@ things just as much as the business side.
 ---
 
 *Always learning. Always building.*
+
+![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh-Adhyaru&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Adhyaru&layout=compact&theme=tokyonight)
